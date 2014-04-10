@@ -17,4 +17,4 @@ Preguntas Frecuentes de Python, en formato de iPython Notebook:
 [4]: http://nbviewer.ipython.org/urls/raw.github.com/esparta/pfpy/master/timeit-funciones.ipynb
 [5]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/secuencias-ordenadas.ipynb
 [6]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/cercano_a_cero.ipynb
-[7]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/diferentes_range.ipynb.ipynb
+[7]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/diferentes_range.ipynb
