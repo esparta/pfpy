@@ -11,6 +11,7 @@ Preguntas Frecuentes de Python, en formato de iPython Notebook:
 * [Obtener el numero cercano a cero (0)][6]
 * [Diferencias entre irange, xrange y range][7]
 * [Simplificando condiciones][8]
+* [Ejecutar comando externo][9]
 
 [1]: progreso_en_python.md
 [2]: http://nbviewer.ipython.org/urls/raw.github.com/esparta/pfpy/master/entendiendo-yield.ipynb
@@ -20,3 +21,4 @@ Preguntas Frecuentes de Python, en formato de iPython Notebook:
 [6]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/cercano_a_cero.ipynb
 [7]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/diferentes_range.ipynb
 [8]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/simplificando_condiciones.ipynb
+[9]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/ejecutar_comando_externo.ipynb
