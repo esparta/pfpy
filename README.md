@@ -14,11 +14,11 @@ Preguntas Frecuentes de Python, en formato de iPython Notebook:
 * [Ejecutar comando externo][9]
 
 [1]: progreso_en_python.md
-[2]: http://nbviewer.ipython.org/urls/raw.github.com/esparta/pfpy/master/entendiendo-yield.ipynb
-[3]: http://nbviewer.ipython.org/urls/raw.github.com/esparta/pfpy/master/acerca-de-__main__.ipynb
-[4]: http://nbviewer.ipython.org/urls/raw.github.com/esparta/pfpy/master/timeit-funciones.ipynb
-[5]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/secuencias-ordenadas.ipynb
-[6]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/cercano_a_cero.ipynb
-[7]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/diferentes_range.ipynb
-[8]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/simplificando_condiciones.ipynb
-[9]: http://nbviewer.ipython.org/github/esparta/pfpy/blob/master/ejecutar_comando_externo.ipynb
+[2]: entendiendo-yield.ipynb
+[3]: acerca-de-__main__.ipynb
+[4]: timeit-funciones.ipynb
+[5]: secuencias-ordenadas.ipynb
+[6]: cercano_a_cero.ipynb
+[7]: diferentes_range.ipynb
+[8]: simplificando_condiciones.ipynb
+[9]: ejecutar_comando_externo.ipynb

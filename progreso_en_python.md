@@ -29,7 +29,7 @@ Este obra está bajo una licencia [Licencia Creative Commons Atribución 4.0 Int
 [cc]: https://creativecommons.org/licenses/by/4.0
 [0]: https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru/2576240#2576240
 [1]: https://en.wikipedia.org/wiki/List_comprehension
-[2]: http://nbviewer.ipython.org/urls/raw.github.com/esparta/pfpy/master/entendiendo-yield.ipynb
+[2]: entendiendo-yield.ipynb
 [3]: https://docs.python.org/library/functions.html
 [4]: https://wiki.python.org/moin/PythonDecorators
 [5]: https://docs.python.org/library/itertools.html
