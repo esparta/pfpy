@@ -25,15 +25,15 @@ Este obra está bajo una licencia [Licencia Creative Commons Atribución 4.0 Int
 
 [espartwitter]: https://twitter.com/esparta/
 [espartaweb]: http://esparta.co
-[ccimage]: http://i.creativecommons.org/l/by/4.0/88x31.png "Licencia Creative Commons"
-[cc]: http://creativecommons.org/licenses/by/4.0
-[0]: http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru/2576240#2576240
-[1]: http://en.wikipedia.org/wiki/List_comprehension
-[2]: http://nbviewer.ipython.org/urls/raw.github.com/esparta/pfpy/master/entendiendo-yield.ipynb
-[3]: http://docs.python.org/library/functions.html
-[4]: http://wiki.python.org/moin/PythonDecorators
-[5]: http://docs.python.org/library/itertools.html
-[6]: http://docs.python.org/library/functools.html
+[ccimage]: https://i.creativecommons.org/l/by/4.0/88x31.png "Licencia Creative Commons"
+[cc]: https://creativecommons.org/licenses/by/4.0
+[0]: https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru/2576240#2576240
+[1]: https://en.wikipedia.org/wiki/List_comprehension
+[2]: entendiendo-yield.ipynb
+[3]: https://docs.python.org/library/functions.html
+[4]: https://wiki.python.org/moin/PythonDecorators
+[5]: https://docs.python.org/library/itertools.html
+[6]: https://docs.python.org/library/functools.html
 [7]: http://book.realworldhaskell.org/read/
-[8]: en.wikipedia.org/wiki/Strategy_pattern
-[9]: http://rads.stackoverflow.com/amzn/click/0596007124
+[8]: https://en.wikipedia.org/wiki/Strategy_pattern
+[9]: https://rads.stackoverflow.com/amzn/click/0596007124
